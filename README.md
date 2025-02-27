@@ -11,6 +11,8 @@ The **AirQuality Monitoring Network** is an open-source project designed to moni
 - **Prometheus Integration**: Monitors and visualizes metrics using Prometheus.
 - **Containerized Deployment**: Simplified setup with Docker Compose.
 
+![Grafana Dashboard](assets\images\image-1.jpg)
+
 ## Getting Started
 
 ### Prerequisites
